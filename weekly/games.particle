@@ -552,7 +552,7 @@ packages:
 	games-sports/vdrift,
 	games-sports/xmoto,
 	games-strategy/0ad,
-    games-strategy/0ad-data,
+	games-strategy/0ad-data,
 	games-strategy/attal,
 	games-strategy/boswars,
 	games-strategy/coldwar-demo,
